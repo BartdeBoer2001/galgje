@@ -1,5 +1,7 @@
 # Galgje
 
+# GAME OVER
+
 ## Te raden woord
 
 |.|.|.|.|.|.|.|
@@ -10,10 +12,10 @@
 
 
 ## Foute letters
-E, W, A, U, L
+E, W, A, U, L, V
 
 ## Score
-![gallow](./images/6.png)
+![gallow](./images/7.png)
 
 ## Beurten
 req:1 I
