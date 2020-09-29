@@ -10,10 +10,10 @@
 
 
 ## Foute letters
-E
+E, W
 
 ## Score
-![gallow](./images/2.png)
+![gallow](./images/3.png)
 
 ## Beurten
 req:1 I
