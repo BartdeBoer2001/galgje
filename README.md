@@ -1,5 +1,7 @@
 # Galgje
 
+## Gespeeld met William
+
 # GAME OVER
 
 ## Te raden woord
